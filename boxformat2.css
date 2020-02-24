@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+a {
+    margin-left: 20px;
+    font-size: 35px;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clr {
+    clear: both;
+}
+.mb{
+    margin-bottom: 1%;
+}
+.ml {
+    margin-left: 0.5%;
+}
+.ht {
+    height: 60px;
+}
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-pink{
+    background-color: pink;
+}
+.row1 {
+    width: 100%;
+}
+.row2 {
+    width: 49.75%;
+   
+}
+.row3 {
+    width: 33%;
+}
+.row4{
+    width: 24.625%;
+}
+.row5{
+    width: 19.6%;
+}
+.row6{
+    width: 16.25%;
+}
+.row7 {
+    width: 13.85%;
+}
+.row8 {
+    width: 12.0625%;
+}
+.row9 {
+    width: 10.66%;
+}
+.row10 {
+    width: 9.55%;
+}
+.row11 {
+    width: 8.63%;
+}
+.row12 {
+    width: 7.875%;
+}
