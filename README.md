@@ -1,2 +1,2 @@
-# Box-Structure
-Box structure using div tag
+# Box-Format
+Box Format using div tag
